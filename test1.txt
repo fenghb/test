@@ -1,1 +1,3 @@
-public class Test(){}
+public class Test(){
+	System.out.println("test_brach1");
+}
